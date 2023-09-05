@@ -1,0 +1,46 @@
+#about
+{
+    background-image: url(https://i.pinimg.com/originals/20/db/7f/20db7f6f36afc9adf13d981a4a065461.jpg);
+
+}
+#stage1
+{
+  background-image: url(https://images.alphacoders.com/156/thumb-1920-156261.jpg);
+  height: cover;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    margin-left: 60%;
+  }
+  
+  .button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+  }
+  
+  .button1:hover {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+  }
+  
+  .button2:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+  
